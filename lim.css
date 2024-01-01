@@ -1,0 +1,73 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+body {
+   background-image: url(foto/background.jpg);
+   background-size: cover;
+   box-sizing: border-box;
+   margin: auto;
+   width: 1200px;
+   font-family: 'Roboto', sans-serif;
+}
+#corpo-principale {
+    width: auto;
+    background-color: rgba(0, 0, 0, 0.5);
+    text-align: center;
+    margin-top: 25px;
+    border-radius: 10px;
+
+}
+
+#content {
+    opacity: 1; 
+    padding: 60px;
+
+}
+img {
+   width: 250px;
+   margin-top: 80px;
+}
+#titolo {
+    color: rgb(69, 248, 4);
+    margin-bottom: 30px;
+}
+nav {
+    background-color:rgb(69, 248, 4) ;
+    padding: 15px;
+}
+button {
+    margin: 0 2px; 
+    padding: 1px 3px;
+
+}
+.element {
+    text-align: left;
+    padding-top: 25px;
+    color: white;
+}
+.sottotitolo {
+    display: inline;
+    font-weight: 400;
+}
+p {
+    font-weight: 100;
+}
+.charge {
+    border-radius: 5px;
+    height: 35px;
+}
+.orange {
+    background-color: orange;
+    width: 35%;
+}
+.green{
+    background-color: green;
+    width: 60%;
+
+}
+.red {
+    background-color: red;
+    width: 10%;
+
+}
